@@ -104,7 +104,7 @@ Dado um conjunto de imagens sobrepostas (como fotos panorâmicas tiradas lado a 
 
 ## 👨‍🏫 Créditos
 
-Desenvolvido como parte das atividades práticas da disciplina **Visão Computacional Aplicada** no **LabSEA - Laboratório de Sistemas Embarcados e Audiovisual**.
+Desenvolvido como parte das atividades práticas da disciplina **Visão Computacional Aplicada** no **LabSEA**.
 
 ---
 
